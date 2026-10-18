@@ -1,0 +1,11 @@
+'''
+
+f = open("file.txt","r")#read default mode
+data = f.read()
+Print(data)
+f.close()
+'''
+Hey! i am Punom
+I love to read.
+I am a failure 
+I dont know what i will do in future.
